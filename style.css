@@ -1,0 +1,151 @@
+.full-website{
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    /* padding: 0; */
+    /* margin-left: 100px; */
+
+    
+}
+.menu-header{
+    background-color: #2e219a;
+    text-align: center;
+    padding: 10px;
+}
+.menu-header img{
+    width: 30px;
+    height: 30px;
+}
+.midel-menu{
+    text-align:center;
+    background-color: red;
+     padding: 1px; 
+    text-transform: capitalize;   
+    
+}
+ul li{
+    display: inline-block;
+}
+ul li a{
+    text-decoration: none;
+    border-right: 1px solid #fff;
+    color: #fff; 
+    padding: 10px;
+}
+.midel-menu ul li:last-child a{
+    border: none;
+}
+.baner {
+    text-align: center;
+    color: #fff;
+    
+}
+
+.bg{
+    background-size: cover;
+    background-position:top center; 
+     /* background-repeat: no-repeat;  */
+     background-image: url(https://i.ibb.co/Np0VbJp/pngtree-simple-creative-background-design-in-the-sky-backgroundcartoonlovelyplanetstarry-skyillustra.jpg); 
+     padding: 80px;
+     
+     
+}
+.baner a{
+    text-decoration: none;
+    color: #fff;
+    background-color: #008000;
+    padding: 5px;
+    display: inline-block;
+}
+a{
+    margin-top: 3px; 
+}
+.contant{
+    
+    text-align: center;
+    color: #fff;
+    text-transform: capitalize;
+    
+    
+}
+.contant{
+/* .img2{ */
+    width: 1200px;
+    height:400px ;
+    background-size:100%;
+    background-position:top center; 
+       background-repeat: no-repeat;   
+     background-image: url(https://i.ibb.co/NxGcP2K/pngtree-modern-double-color-futuristic-neon-background-image-351866.jpg); 
+    
+     padding-top: 100px;
+      
+}
+
+.h1 {
+    background-color: green; 
+    padding-top: ;
+   
+}
+.contant p{
+    background-color: #ffff00;
+    display: inline-block;
+    color: #000;  
+}
+.contant button{
+    display: block;
+    margin: auto;
+    background-color: #000;
+    color: #fff;
+}
+
+.footer{
+    background-color: #4ab75c;
+    /* height: 400px; */
+    padding: 30px;
+   
+
+}
+.img3{
+    display: inline-block;
+}
+.img3{
+
+     width: 60px;
+    height: 60px;
+    margin-left: 300px;
+    margin-bottom:60px ; */
+}
+.div1{
+     display: inline-block; 
+   
+    text-transform: capitalize;
+    margin-left:80px;
+}
+.h2{
+    text-align: center;
+}
+.div2{
+    display: inline-block;
+    margin-left: 280px;
+    margin-top: 100px;
+    text-transform: capitalize;
+}
+.img4{
+    text-align: center;
+    margin-left: 0px;
+    display: inline-block;
+}
+.footer-bottom{
+     background-color:#2a1e8e; 
+    padding: 1px;
+    text-align: center;
+}
+.footer-bottom ul li a{
+   border: 1px solid #fff;
+   border-radius:10px;
+   padding: 15px;
+    margin: 5px;
+   display: inline-block;
+  
+}
+
